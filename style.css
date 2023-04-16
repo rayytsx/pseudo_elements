@@ -23,3 +23,7 @@ html {
     font-size: 2rem; /* = 20px * 2 = 40px */
    
     }
+    .lorem {
+        height: 800px;
+        background-image: url();
+    }
