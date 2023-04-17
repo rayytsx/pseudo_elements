@@ -25,5 +25,6 @@ html {
     }
     .lorem {
         height: 800px;
-        background-image: url();
+        background-image: url(./img/background.png);
+        background-repeat: no-repeat;
     }
